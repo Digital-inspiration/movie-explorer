@@ -43,6 +43,4 @@ npm run build – Build for production
 ## License
 MIT
 
-
-
 Enjoy exploring movies!
