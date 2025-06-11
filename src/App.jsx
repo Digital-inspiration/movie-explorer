@@ -4,7 +4,7 @@ import Favourites from './pages/Favourites'
 import Home from './pages/Home'
 import { Route, Routes } from 'react-router-dom'
 import { MovieProvider } from './contexts/MovieContext'
-import NavBar from './components/Navbar'
+import NavBar from './components/NavBar'
 
 function App() {
 
