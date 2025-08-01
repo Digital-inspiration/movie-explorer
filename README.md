@@ -1,4 +1,4 @@
-npm run dev# 🎬 Movie Explorer
+# 🎬 Movie Explorer
 
 A modern React app to browse, search, and favorite movies using [The Movie Database (TMDB)](https://www.themoviedb.org/) API.  
 Easily discover trending films, search by title, and manage your personal favorites list.
